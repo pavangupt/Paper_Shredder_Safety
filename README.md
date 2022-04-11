@@ -5,7 +5,7 @@ Manufacturers recommend taking several safety measures to avoid injury when oper
 Most shredder manufacturers engineer their equipment to minimize the potential for injury. Unfortunately, human error can override even the best engineered system. However, it’s not just catastrophic accidents that cause trouble for recycling companies and the people they employ. Simply using improper posture when positioning an 80-pound screen can create problems. 
 
 ## Solution:
-In order enhance the safety mechanism in the cutting industry, I have develop a model that will successfully detect, if the person/labour/engineer trying to cross the safety limit.The IP camera is continously monitor the movements and each records is getting saved in the database. Even if in some unexpected situation, if a labour bychance crosses the safety border, the SSD Model will get triggered and we can hear a alarming sound.
+In order to enhance the safety mechanism in the cutting industry, I have develop a model that will successfully detect, if the person/labour/engineer trying to cross the safety limit.The IP camera is continously monitor the movements and each records is getting saved in the database. Even if in some unexpected situation, if a labour bychance crosses the safety border, the SSD Model will get triggered and we can hear a alarming sound.
 - I have train used the pre-trained SSD Mobile coco pretrained model. One of the major reason for choosing this model was its accuracy and FPS(Frame per Second). In my application, the SSD Mobilenet outperform Faster RCNN and YOLOv3. 
 
 ## Steps Followed:
