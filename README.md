@@ -40,3 +40,9 @@ In order to enhance the safety mechanism in the cutting industry, I have develop
 ### STEP-13 Copy deployment and nets folder from research/slim into the research folder-
 ### STEP-14 NOW Run the following command from the research folder. This will start the training in your local system-
 - python train.py --logtostderr --train_dir=training/ --pipeline_config_path=training/YOUR_MODEL.config
+
+
+![image](https://user-images.githubusercontent.com/91775600/162735012-d49f905c-4653-4278-ac07-8718a45cd11f.png)
+
+
+
